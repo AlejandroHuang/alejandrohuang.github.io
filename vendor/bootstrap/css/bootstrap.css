@@ -595,19 +595,6 @@ pre code {
   margin-left: -15px;
 }
 
-.column {
-  -ms-flex: 25%; /* IE10 */
-  flex: 25%;
-  max-width: 25%;
-  padding: 0 4px;
-}
-
-.column img {
-  margin-top: 8px;
-  vertical-align: middle;
-  width: 100%;
-}
-
 .no-gutters {
   margin-right: 0;
   margin-left: 0;
